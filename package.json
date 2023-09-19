@@ -9,10 +9,13 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-picker/picker": "2.4.10",
     "expo": "~49.0.11",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
-    "react-native": "0.72.4"
+    "react-native": "0.72.4",
+    "react-native-dotenv": "^3.4.9",
+    "react-native-modal-picker": "^0.0.16"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
